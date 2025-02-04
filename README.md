@@ -1,6 +1,6 @@
 # Java Foundations and Beyond  
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
 
 A repository for learning Java from basics to advanced concepts.
 
