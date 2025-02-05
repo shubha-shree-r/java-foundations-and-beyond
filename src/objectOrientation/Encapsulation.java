@@ -11,6 +11,7 @@ public class Encapsulation {
         }
 
         public String getAccountNumber() {
+            System.out.println(accountNumber);
             return accountNumber;
         }
 
