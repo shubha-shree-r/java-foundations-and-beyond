@@ -1,5 +1,7 @@
 package arraysAndCollectionsFramework;
 
+import java.io.FileInputStream;
+
 public class OneDimension {
 
 
@@ -25,5 +27,23 @@ public class OneDimension {
             System.out.println(digit);
         }
 
+
+        // fibonacci series example
+        Fibonacci fib = new Fibonacci();
+        fib.fibonacci[0] = 0;
+        fib.fibonacci[1] = 1;
+        System.out.println(" ");
+        System.out.println("Fibonacci series :");
+        for(int i = 2; i < fib.fibonacci.length; i++){
+            fib.fibonacci[i] = fib.fibonacci[i-1] + fib.fibonacci[i-2];
+            System.out.println(fib.fibonacci[i]);
+        }
+
     }
+}
+
+class Fibonacci{
+    int[] fibonacci = new int[10];
+
+
 }
