@@ -45,5 +45,4 @@ public class OneDimension {
 class Fibonacci{
     int[] fibonacci = new int[10];
 
-
 }
