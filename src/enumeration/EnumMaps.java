@@ -27,5 +27,13 @@ public class EnumMaps {
         System.out.println("EnumMap2:" + sizes2);
 
         System.out.println("Size of EnumMap:"+ sizes1.size());
+
+        System.out.println("Key/Value mappings: " + sizes1.entrySet());
+
+
+        System.out.println("Keys: " + sizes1.keySet());
+
+
+        System.out.println("Values: " + sizes1.values());
     }
 }
