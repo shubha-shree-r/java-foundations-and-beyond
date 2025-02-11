@@ -1,4 +1,4 @@
-package genericsAndLambdaExpressions;
+package genericsAndLambda;
 
 interface Comparable<T> {
     int compareTo(T other);

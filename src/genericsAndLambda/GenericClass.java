@@ -1,4 +1,4 @@
-package genericsAndLambdaExpressions;
+package genericsAndLambda;
 
 public class GenericClass<T, U> {
     private T first;

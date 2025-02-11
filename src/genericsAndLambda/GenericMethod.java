@@ -1,4 +1,4 @@
-package genericsAndLambdaExpressions;
+package genericsAndLambda;
 
 public class GenericMethod {
 

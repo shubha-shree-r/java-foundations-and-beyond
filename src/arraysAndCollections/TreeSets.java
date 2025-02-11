@@ -1,4 +1,4 @@
-package arraysAndCollectionsFramework;
+package arraysAndCollections;
 
 import java.util.Iterator;
 import java.util.TreeSet;

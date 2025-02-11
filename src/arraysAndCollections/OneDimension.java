@@ -1,4 +1,4 @@
-package arraysAndCollectionsFramework;
+package arraysAndCollections;
 
 import java.io.FileInputStream;
 
