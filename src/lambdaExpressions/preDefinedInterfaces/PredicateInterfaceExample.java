@@ -1,4 +1,4 @@
-package lambdaExpressions;
+package lambdaExpressions.preDefinedInterfaces;
 
 /**
  * Predicate---> one parameter returns boolean
