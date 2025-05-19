@@ -4,7 +4,7 @@ package lambdaExpressions;
 interface Cab{
     void bookCab();
 }
-public class functionalInterfaceExample {
+public class FunctionalInterfaceExample {
 
     public static void main(String[] args) {
         Cab cab = ()-> System.out.println("Ola cab is booked....");
