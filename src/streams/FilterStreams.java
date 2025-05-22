@@ -3,9 +3,8 @@ package streams;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
-public class filterStream {
+public class FilterStreams {
     public static void main(String[] args) {
       /*  ArrayList<Integer> numberList = new ArrayList<Integer>();
         numberList.add(10);
